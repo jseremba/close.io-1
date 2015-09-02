@@ -1,0 +1,11 @@
+{
+"first_name": "Micheal",
+"last_name": "Waltz",
+"email": "ecliptik@gmail.com",
+"phone": "555-555-5555",
+"cover_letter": "I like Github, Ruby, and beer",
+"urls": [ "https://github.com/ecliptik",
+          "https://www.linkedin.com/in/michealcwaltz",
+          "https://twitter.com/junocake",
+          "https://plus.google.com/+MichealWaltz" ]
+}
